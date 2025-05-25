@@ -1,0 +1,63 @@
+🧠 Project: chaodumbao $DUMBAO
+
+😵‍💫 Theme:
+A chaotic, minimalistic memecoin site celebrating the dumbest, most meme-worthy dogs the internet has to offer. Think stretched eyeballs, lopsided tongues, and cursed intelligence. Brutally funny and ultra-minimalist. No deep lore, no whitepapers — just stupid dogs and dumber holders.
+
+🧱 Structure:
+
+1. **Header**
+- Logo (logo.jpg)
+- Site name: "chaodumbao"
+- Ticker: $DUMBAO
+- Buttons: "Buy on Pump.fun", "Twitter", "Read the Dumbplan"
+
+2. **Hero Section**
+- Fullscreen banner image (banner.jpg)
+- Large heading: "The dumbest dogs. The smartest buy."
+- Subheading: “You’re not early. You’re just confused.”
+- One button: “Buy $DUMBAO”
+
+3. **Why $DUMBAO?**
+- 3 dumb facts (with emoji icons)
+    - 🧠 IQ < 20
+    - 💰 No Utility. Just Bite.
+    - 🐶 Born to Bark, not to Think.
+
+4. **Gallery of Dumb**
+- Use uploaded images (1.jpg–8.jpg)
+- Each dog image gets a block with a short, chaotic caption:
+    - “Sniffed glue once, never recovered.”
+    - “Thinks doorbells are government surveillance.”
+    - “Barks at air.”
+    - “Used to be smart. Then he met DeFi.”
+    - “Shat in a ledger once.”
+    - “CEO of ‘accidentally rugged’.”
+    - “IQ test came back… blank.”
+    - “Holds $DUMBAO like a deity.”
+
+5. **The Dumbplan**
+- Text block (unfolds on button click):
+  - “There is no roadmap. We sniff, we bark, we pump. If this goes 100x, it’s not because we planned it. It’s because dumb wins.”
+  - “Phase 1: Accidentally launch”
+  - “Phase 2: Dogs buy dogs”
+  - “Phase 3: Floor becomes religious”
+
+6. **CTA Footer**
+- Buttons again: “Buy $DUMBAO”, “Tweet Something Stupid”
+- Legal disclaimer: “$DUMBAO is not responsible for sudden brain loss.”
+
+🎨 Design:
+- Minimal layout, white/cream background
+- Text: monospace, Comic Neue or similar
+- Dog captions in oversized font
+- Hover animation: tilt/wobble
+- All sections bounce slightly as they appear
+
+📦 Assets to use:
+- logo.jpg
+- banner.jpg
+- All 8 dog images: numbered or renamed as obj1.jpg to obj8.jpg
+
+📌 Notes:
+- Make the layout scrollable and stupidly funny
+- Add little barking sound effects on click (optional)
